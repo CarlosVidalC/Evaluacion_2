@@ -1,0 +1,16 @@
+cl\duoc\viviendas\controller\RegistroController$1.class
+cl\duoc\viviendas\dao\DepartamentoJsonDAO.class
+cl\duoc\viviendas\dao\ViviendaRepository.class
+cl\duoc\viviendas\App.class
+cl\duoc\viviendas\model\ConEstacionamiento.class
+cl\duoc\viviendas\dao\ViviendaDAO.class
+cl\duoc\viviendas\dao\CasaJsonDAO$CasaDatos.class
+cl\duoc\viviendas\service\ViviendaService.class
+cl\duoc\viviendas\controller\MainController.class
+cl\duoc\viviendas\controller\RegistroController.class
+cl\duoc\viviendas\dao\DepartamentoJsonDAO$DepartamentoDatos.class
+cl\duoc\viviendas\dao\CasaJsonDAO.class
+cl\duoc\viviendas\model\Departamento.class
+cl\duoc\viviendas\Launcher.class
+cl\duoc\viviendas\model\Casa.class
+cl\duoc\viviendas\model\Vivienda.class
